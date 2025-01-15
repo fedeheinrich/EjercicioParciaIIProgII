@@ -1,0 +1,15 @@
+[
+    {
+        "dni": 41859249,
+        "nombre": "Fede",
+        "apellido": "Di Cesare",
+        "bebidaPreferida": {
+            "nombre": "Vino Tinto",
+            "costo": 10.0,
+            "stock": 30,
+            "mililitros": 750,
+            "graduacionAlcoholica": 12.5,
+            "precio": 16.0
+        }
+    }
+]
